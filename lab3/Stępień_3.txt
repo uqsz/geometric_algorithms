@@ -1,0 +1,2 @@
+W celu odczytania zadanych przeze mnie figur nalezy wypakowac pliki z "wielokaty"
+do folderu, z ktorego bedzie uruchamiany kod programu
